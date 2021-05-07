@@ -5,9 +5,7 @@
 
 ## Features
 
-Multi APIs
-Script Hub
-Ace Editor (you can use monaco if you want, just go on settings!
+Multi APIs, Script Hub and Ace Editor (you can use monaco if you want, just go on settings!
 
 **Multiple APIs**
 
